@@ -27,7 +27,7 @@ namespace DnD_Mass_Combat {
         private void button2_Click(object sender, EventArgs e) {
             //B v A
             Attack(Unit2, Unit1);
-            if (Unit2.FightsBack)
+            if (Unit1.FightsBack)
                 Attack(Unit1, Unit2);
         }
 
