@@ -1,0 +1,10 @@
+T:\Documents\Visual Studio\Projects\DnD Mass Combat\DnD Mass Combat\bin\Debug\DnD Mass Combat.exe.config
+T:\Documents\Visual Studio\Projects\DnD Mass Combat\DnD Mass Combat\bin\Debug\DnD Mass Combat.exe
+T:\Documents\Visual Studio\Projects\DnD Mass Combat\DnD Mass Combat\bin\Debug\DnD Mass Combat.pdb
+T:\Documents\Visual Studio\Projects\DnD Mass Combat\DnD Mass Combat\obj\Debug\DnD Mass Combat.csprojResolveAssemblyReference.cache
+T:\Documents\Visual Studio\Projects\DnD Mass Combat\DnD Mass Combat\obj\Debug\DnD_Mass_Combat.Form1.resources
+T:\Documents\Visual Studio\Projects\DnD Mass Combat\DnD Mass Combat\obj\Debug\DnD_Mass_Combat.Properties.Resources.resources
+T:\Documents\Visual Studio\Projects\DnD Mass Combat\DnD Mass Combat\obj\Debug\DnD Mass Combat.csproj.GenerateResource.Cache
+T:\Documents\Visual Studio\Projects\DnD Mass Combat\DnD Mass Combat\obj\Debug\DnD Mass Combat.exe
+T:\Documents\Visual Studio\Projects\DnD Mass Combat\DnD Mass Combat\obj\Debug\DnD Mass Combat.pdb
+T:\Documents\Visual Studio\Projects\DnD Mass Combat\DnD Mass Combat\obj\Debug\DnD_Mass_Combat.Unit.resources
